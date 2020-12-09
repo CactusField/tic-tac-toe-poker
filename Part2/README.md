@@ -167,7 +167,7 @@ In this step, we will target each card using the input fields that we created.
     <input id='idInput' type="text" placeholder='Set ID'>
     <input id='colorInput' type="text" placeholder='Set Color'>
     <button id='btn' onclick='setCard()'>Edit Card</button>
-    <script src='./index.js'></script>
+    <script src="./index.js"></script>
 </body>
 </html>
 ```
